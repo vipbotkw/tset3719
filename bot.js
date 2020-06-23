@@ -27,4 +27,4 @@ client.user.setGame(`!bc |mahmod AR |server`,"https://www.twitch.tv/klia101alajm
 client.user.setStatus("dnd")
 });
 
-client.login(process.env.NzI0ODMwNDY0MTM2NzA4MjQ4.XvF5AA.iR3k0xgWNoSfuja1DjqQdmZxdJg);
+client.login(process.env.BOT_TOKEN);
